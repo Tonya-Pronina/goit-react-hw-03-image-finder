@@ -1,0 +1,17 @@
+.backdrop{
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(1, 16, 5, 0.8);
+    z-index: 1200;
+    position: fixed;
+    left: 0;
+}
+
+/* .modal {
+    max-width: calc(100% - 48px);
+    max-height: calc(100% - 24px);
+} */
